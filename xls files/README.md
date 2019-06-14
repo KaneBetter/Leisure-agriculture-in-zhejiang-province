@@ -31,3 +31,17 @@
 # 将浙江省的所有村镇信息爬取
 
 整理在ZJS.xls中，便于未来的数据分析工作。
+
+
+
+# 全省71356个点
+
+将高德地图爬取的71356爬取的村级地名匹配到之前的信息文件中
+
+
+
+# 浙江省休闲农业业态分类
+
+按照老师要求将业态分为以下几类
+
+![休闲农业业态分类](/Users/chenkaiqin/Documents/GitHub/Leisure-agriculture-in-zhejiang-province/images/休闲农业业态分类.png)
