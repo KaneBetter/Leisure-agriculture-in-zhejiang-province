@@ -45,3 +45,7 @@
 按照老师要求将业态分为以下几类
 
 ![休闲农业业态分类](/Users/chenkaiqin/Documents/GitHub/Leisure-agriculture-in-zhejiang-province/images/休闲农业业态分类.png)
+
+
+
+农业厅数据
